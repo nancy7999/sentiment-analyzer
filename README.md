@@ -8,6 +8,10 @@ An **AI-powered dashboard** that analyzes comments and classifies them into:
 Built with **Streamlit + Machine Learning**, this project helps organizations (like government bodies, companies, or NGOs) quickly understand public sentiment from feedback or survey responses.
 
 ---
+## 📸 Screenshot  
+
+![Tech Event Tracker Screenshot](screenshot.png)
+
 
 ## 📖 Project Description
 Feedback analysis is time-consuming when done manually.  
@@ -51,5 +55,7 @@ Our vision is to create a **smart sentiment analysis tool** that can:
   - [Matplotlib](https://matplotlib.org/) – Charts
   - [WordCloud](https://amueller.github.io/word_cloud/) – Word visualization
   - [Joblib](https://joblib.readthedocs.io/) – Model saving
+
+
 
 
