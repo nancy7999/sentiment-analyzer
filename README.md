@@ -1,5 +1,3 @@
-# sentiment-analyzer
-AI-powered dashboard to analyze comments and classify them as Positive, Negative, or Neutral with visual insights like charts and word clouds
 # 💬 Sentiment Analyzer Dashboard
 
 An **AI-powered dashboard** that analyzes comments and classifies them into:  
